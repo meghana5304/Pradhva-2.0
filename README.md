@@ -1,3 +1,0 @@
-#Full Stack Project
-
-#INTRA SPORTS MEET REGISTRATION FORM
